@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<opencv_storage>
+  <matrix_left type_id="opencv-matrix">
+    <data>5780.3813587782861</data>
+    <data>0</data>
+    <data>563.03260861423564</data>
+    <data>0</data>
+    <data>5823.1764847082432</data>
+    <data>290.47648377906916</data>
+    <data>0</data>
+    <data>0</data>
+    <data>1</data>
+  </matrix_left>
+  <distortion_left type_id="opencv-matrix">
+    <data>2.0704395209769784</data>
+    <data>-373.51529328644574</data>
+    <data>-0.018356930343424442</data>
+    <data>0.0088737697302811985</data>
+    <data>0</data>
+  </distortion_left>
+</opencv_storage>
